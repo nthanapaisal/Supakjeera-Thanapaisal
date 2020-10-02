@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Supakjeera Thanapaisal
 
-You can use the [editor on GitHub](https://github.com/nthanapaisal/Supakjeera-Thanapaisal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Supakjeera Thanapaisal's Website. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+LinkedIn: [Supakjeera Thanapaisal](https://www.linkedin.com/in/supakjeera-thanapaisal/) 
+Github: [nthanapaisal](https://github.com/nthanapaisal)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### About Me
+
+Hello everyone,
+
+My name is Supakjeera Thanapaisal or Nikki. I am an international student from Thailand and currently pursuing a Computer Science degree, concentration in Software Engineering, with a minor in Business at The University pf Texas at San Antonio. I'm currently looking for Software Engineering internship position for Summer 2021. Please don't hesitate to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/supakjeera-thanapaisal/).
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nthanapaisal/Supakjeera-Thanapaisal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nthanapaisal/SThanapaisal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
