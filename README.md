@@ -15,7 +15,7 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 
 
 
-![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/blob/main/folder/maxresdefault.jpg)
+![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/blob/main/folder/MATLABWorkspace.png)
 
 
 ```markdown
