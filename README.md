@@ -20,7 +20,7 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 ### Accomplishments
 
 1. **Grace Hopper Celebration 2020 Scholar**
-![Image](https://raw.githubusercontent.comn/nthanapaisal/Supakjeera-Thanapaisal/main/folder/GHC.png)
+![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/main/folder/GHC.png)
 2.
 3.
 
