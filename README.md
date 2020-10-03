@@ -19,5 +19,21 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 
 ### Accomplishments
 
-**Grace Hopper Celebration 2020 Scholar**
+1. **Grace Hopper Celebration 2020 Scholar**
 ![Image](https://raw.githubusercontent.comn/nthanapaisal/Supakjeera-Thanapaisal/main/folder/GHC.png)
+2.
+3.
+
+
+### Activities
+1. **Vice President of ACM-W at UTSA**
+  • Represent women and minorities in CS department at UTSA
+  • Organize and plan guest speakers, social, and career development events for ACM-W
+  • Promote and create advertisements for ACM events
+
+2. **UTSA Ambassador**
+  • Positively represented the UTSA brand
+  • Gave tours to prospective students at UTSA Main Campus
+  • Helped run Fall and Spring Commencements at UTSA
+  • Worked at the UTSA Welcome Center
+  • Participated in fundraising for Adopt-A-Family and other programs
