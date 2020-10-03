@@ -12,7 +12,7 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 
 ![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/main/folder/18581872_1402281146504275_5647617570898128144_n.jpg)
 
-### Publication
+### Publications
 > Thanapaisal S, Mosher S, Trejo B and Robbins KA (2020)
 > EEG-Beats: Automated analysis of heart rate variability (HVR) from EEG-EKG
 > https://biorxiv.org/cgi/content/short/2020.07.21.211862v1
