@@ -2,8 +2,8 @@
 
 Welcome to Supakjeera Thanapaisal's Website. 
 
-***LinkedIn:*** [Supakjeera Thanapaisal](https://www.linkedin.com/in/supakjeera-thanapaisal/) 
-***Github:*** [nthanapaisal](https://github.com/nthanapaisal)
+- **LinkedIn:** [Supakjeera Thanapaisal](https://www.linkedin.com/in/supakjeera-thanapaisal/) 
+- **Github:** [nthanapaisal](https://github.com/nthanapaisal)
 
 
 ### About Me
@@ -12,7 +12,7 @@ Hello everyone!
 
 My name is Supakjeera Thanapaisal or Nikki. I am an international student from Thailand and currently pursuing a Computer Science degree, concentration in Software Engineering, with a minor in Business at The University pf Texas at San Antonio. I'm currently looking for Software Engineering internship position for Summer 2021. Please don't hesitate to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/supakjeera-thanapaisal/).
 
-### Publications
+### Publication
 > Thanapaisal S, Mosher S, Trejo B and Robbins KA (2020)
 > EEG-Beats: Automated analysis of heart rate variability (HVR) from EEG-EKG
 > https://biorxiv.org/cgi/content/short/2020.07.21.211862v1
@@ -24,8 +24,6 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 4. **Udesign2018 UTSA Campus Services (2018)** [Link](https://www.utsa.edu/campusservices/about/blog/2018/blog_04-18.html)
 
 ![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/main/folder/GHC.png)
-
- 
 
 ### Activities
 1. **Vice President of ACM-W at UTSA (May 2019 - May 2020)**
