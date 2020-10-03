@@ -2,9 +2,8 @@
 
 Welcome to Supakjeera Thanapaisal's Website. 
 
-
-***LinkedIn: [Supakjeera Thanapaisal](https://www.linkedin.com/in/supakjeera-thanapaisal/) 
-***Github: [nthanapaisal](https://github.com/nthanapaisal)
+***LinkedIn:*** [Supakjeera Thanapaisal](https://www.linkedin.com/in/supakjeera-thanapaisal/) 
+***Github:*** [nthanapaisal](https://github.com/nthanapaisal)
 
 
 ### About Me
