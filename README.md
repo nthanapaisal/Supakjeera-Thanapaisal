@@ -24,6 +24,19 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 
 ![Image](https://raw.githubusercontent.com/nthanapaisal/Supakjeera-Thanapaisal/main/folder/GHC.png)
 
+### Related Courses
+- Data Structures
+- Analysis of Algorithms
+- System Programming
+- Operating Systems
+- Application Programming
+- Database
+- Programming Languages
+- Computer Organization
+- Computer Architecture 
+- Intro to Software Engineering,
+- Intro to Data Science
+
 ### Activities
 1. **Vice President of ACM-W at UTSA (May 2019 - May 2020)**
   - Represent women and minorities in CS department at UTSA
