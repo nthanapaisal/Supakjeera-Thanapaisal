@@ -12,11 +12,13 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
 
 ### Skills
 Languges
-> C, Python, Bash, MATLAB, SQL, IA32, LISP, Java
+``` C, Python, Bash, MATLAB, SQL, IA32, LISP, Java ```
+
 Operating Systems
-> Linux, Microsoft Windows, MacOS
+``` Linux, Microsoft Windows, MacOS ```
+
 Other
-> Git, Raspberry Pi, Computer Assembly, Photoshop, Adobe Premier, Adobe XD, Microsoft Suite
+``` Git, Raspberry Pi, Computer Assembly, Photoshop, Adobe Premier, Adobe XD, Microsoft Suite ```
 
 ### Publications
 > Thanapaisal S, Mosher S, Trejo B and Robbins KA (2020)
