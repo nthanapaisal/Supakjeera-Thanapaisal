@@ -13,7 +13,10 @@ My name is Supakjeera Thanapaisal or Nikki. I am an international student from T
  ___
 ### Skills
 Languges:
-``` C, Python, Bash, MATLAB, SQL, IA32, LISP, Java ```
+``` C, Python, MATLAB, SQL, IA32, LISP, Java ```
+
+Shells:
+```Bash, Tcsh```
 
 Operating Systems:
 ``` Linux, Microsoft Windows, MacOS ```
